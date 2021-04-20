@@ -208,8 +208,4 @@ footer{
     background-color: black;
     color:rgb(95, 81, 81);
 }
-@media all and ( max-width:100%) {
-    body{
-width: 100px;
-    }
-}
+@media all and ( max-width:100%) 
